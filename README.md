@@ -21,8 +21,6 @@ Throughout my journey, I've delved into various topics crucial to a Data Analyst
 
 - **Exploratory Data Analysis (EDA):** I've honed the ability to uncover patterns, trends, and outliers in datasets.
 
-- **SQL for Data Analysis:** I can proficiently use SQL to extract and manipulate data from relational databases.
-
 - **Statistical Analysis:** I understand statistical concepts and apply them to draw accurate conclusions.
 
 - **Data Cleaning and Preprocessing:** I'm skilled in preparing data for analysis through cleaning and feature engineering.
@@ -30,8 +28,6 @@ Throughout my journey, I've delved into various topics crucial to a Data Analyst
 - **Pandas and NumPy:** I've gained expertise in using these libraries for data manipulation and numerical computations.
 
 - **Data Analytics Tools:** I'm familiar with tools like Jupyter Notebook, Google Collab, and Git for effective data analysis workflows.
-
-- **Basic Machine Learning Concepts:** I've obtained an introductory understanding of machine learning and its applications.
 
 - **Business Intelligence:** I recognize how data insights contribute to informed business decisions.
 
