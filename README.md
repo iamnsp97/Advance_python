@@ -3,7 +3,7 @@
 ![Advance Python](https://github.com/iamnsp97/Advance_python/assets/101618100/d848f65e-d0c4-4590-a2e9-4fe1328feea4)
 
 
-Welcome to the Advanced Python Certification repository! This certification program is designed to assess and validate your mastery of advanced Python programming concepts. Whether you're looking to advance your career, deepen your knowledge, or prove your expertise, this certification is the ideal way to showcase your skills.
+Welcome to the Advanced Python Certification repository! This certification program is designed to assess and validate mastery of advanced Python programming concepts. 
 
 ## Certification Overview
 
